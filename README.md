@@ -9,7 +9,7 @@ This repository contains the dataset and code for the paper VG-Mapping: Variatio
 
 ## VG-Scene Dataset
 ### Download
-You can download the VG-Scene dataset from [Google Drive](https://drive.google.com/drive/my-drive).
+You can download the VG-Scene dataset from [Google Drive](https://drive.google.com/drive/folders/1MCTCoyswieRp2Arsx9v7pw8C8TX2q9CI?usp=drive_link).
 ### Dataset format
 The **VG-Scene** dataset includes 6 synthetic sequences and 3 real-world sequences. Each sequence consists of a *pre-change* and a *post-change* sub-sequence. The dataset covers common types of scene changes, such as object addition, removal, and rearrangement. The format of the dataset is shown below.
 
